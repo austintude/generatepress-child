@@ -4,7 +4,7 @@
  * then change LOGO_FILE, BACKGROUND_FILE name and extension (if needed).
  * Update fill color hex code inside ticker.svg with your primary/main color.
  */
-define('LOGO', get_stylesheet_directory_uri() . '/assets/img/42digital-logo.png');
+define('LOGO', get_stylesheet_directory_uri() . '/assets/img/werockicon-512.png');
 define('BACKGROUND', get_stylesheet_directory_uri() . '/assets/img/background.jpg');
 define('TICKER', get_stylesheet_directory_uri() . '/assets/img/ticker.svg');
 
