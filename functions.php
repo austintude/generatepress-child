@@ -8,11 +8,11 @@
 /**
  * SETUP
  */
-define( 'FORTYTWODIGITAL_FOLDER', get_stylesheet_directory() );
+define( 'AUSTINTUDE_FOLDER', get_stylesheet_directory() );
 
 /**
  * INCLUDES
  */
-include_once( FORTYTWODIGITAL_FOLDER . '/includes/edit-login-page.php');
-include_once( FORTYTWODIGITAL_FOLDER . '/includes/add-categories-to-pages.php');
-include_once( FORTYTWODIGITAL_FOLDER . '/includes/add-fonts-to-editor.php');
+include_once( AUSTINTUDE_FOLDER . '/includes/edit-login-page.php');
+include_once( AUSTINTUDE_FOLDER . '/includes/add-categories-to-pages.php');
+include_once( AUSTINTUDE_FOLDER . '/includes/add-fonts-to-editor.php');
